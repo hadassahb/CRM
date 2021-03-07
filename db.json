@@ -40,26 +40,6 @@
          "avatar":"/assets/img/avatar2.png"
       },
       {
-         "membership":false,
-         "mobile":"555-555-555",
-         "rewards":23,
-         "id":6,
-         "firstname":"Sarah",
-         "lastname":"Dunne",
-         "email":"test@test.com",
-         "avatar":"/assets/img/avatar1.png"
-      },
-      {
-         "membership":true,
-         "mobile":"555-555-555",
-         "rewards":23,
-         "id":8,
-         "firstname":"Merriana",
-         "lastname":"Sean",
-         "email":"test@test.com",
-         "avatar":"/assets/img/avatar5.png"
-      },
-      {
          "membership":true,
          "mobile":"555-555-555",
          "rewards":26,
@@ -141,13 +121,6 @@
                "categoryId":1,
                "numInStock":null,
                "unitPrice":18
-            },
-            {
-               "id":2,
-               "name":"Product RECZE",
-               "categoryId":1,
-               "numInStock":null,
-               "unitPrice":19
             }
          ],
          "amount":5.99,
@@ -587,13 +560,6 @@
          "unitPrice":18
       },
       {
-         "id":23,
-         "name":"Product JLUDZ",
-         "categoryId":5,
-         "numInStock":null,
-         "unitPrice":9.5
-      },
-      {
          "categoryId":3,
          "name":"Product ABCD",
          "unitPrice":222,
@@ -613,12 +579,6 @@
          "id":1,
          "name":"Beverages",
          "description":"Soft drinks, coffees, teas, beers, and ales",
-         "picture":null
-      },
-      {
-         "id":2,
-         "name":"Condiments",
-         "description":"Sweet and savory sauces, relishes, spreads, and seasonings",
          "picture":null
       },
       {
