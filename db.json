@@ -317,69 +317,6 @@
    ],
    "products":[
       {
-         "id":1,
-         "name":"Product HHYDP",
-         "categoryId":1,
-         "numInStock":23,
-         "unitPrice":18
-      },
-      {
-         "id":2,
-         "name":"Product RECZE",
-         "categoryId":1,
-         "numInStock":10,
-         "unitPrice":19
-      },
-      {
-         "id":3,
-         "name":"Product IMEHJ",
-         "categoryId":2,
-         "numInStock":null,
-         "unitPrice":10
-      },
-      {
-         "id":4,
-         "name":"Product KSBRM",
-         "categoryId":2,
-         "numInStock":2,
-         "unitPrice":22
-      },
-      {
-         "id":5,
-         "name":"Product EPEIM",
-         "categoryId":2,
-         "numInStock":333,
-         "unitPrice":21.5
-      },
-      {
-         "id":6,
-         "name":"Product VAIIV",
-         "categoryId":2,
-         "numInStock":null,
-         "unitPrice":25
-      },
-      {
-         "id":7,
-         "name":"Product HMLNI",
-         "categoryId":7,
-         "numInStock":null,
-         "unitPrice":30
-      },
-      {
-         "id":8,
-         "name":"Product WVJFP",
-         "categoryId":2,
-         "numInStock":null,
-         "unitPrice":40
-      },
-      {
-         "id":9,
-         "name":"Product AOZBW",
-         "categoryId":6,
-         "numInStock":null,
-         "unitPrice":97
-      },
-      {
          "id":10,
          "name":"Product YHXGE",
          "categoryId":8,
