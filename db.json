@@ -20,25 +20,6 @@
          "avatar":"/assets/img/avatar4.png"
       },
       {
-         "membership":false,
-         "mobile":"555-555-555",
-         "rewards":38,
-         "id":5,
-         "firstname":"William",
-         "lastname":"Carney",
-         "email":"test@test.com",
-         "avatar":"/assets/img/avatar2.png"
-      },
-      {
-         "membership":true,
-         "firstname":"John",
-         "lastname":"Doe",
-         "mobile":"555-555-555",
-         "rewards":88,
-         "email":"john.doe@test.com",
-         "id":13
-      },
-      {
          "avatar":null,
          "firstname":"sdfsdf",
          "lastname":"sdfsdf",
@@ -110,29 +91,6 @@
             }
          ],
          "amount":399.99,
-         "orderDate":"2017-01-01",
-         "shippedDate":"2017-01-01",
-         "shipAddress":{
-            "address":"Gran Vía, 0123",
-            "city":"Madrid",
-            "zipcode":"10298",
-            "country":"Spain"
-         }
-      },
-      {
-         "id":6,
-         "reference":"order-6-6-1-2",
-         "customerId":6,
-         "products":[
-            {
-               "id":5,
-               "name":"Product EPEIM",
-               "categoryId":2,
-               "numInStock":null,
-               "unitPrice":21.5
-            }
-         ],
-         "amount":329.99,
          "orderDate":"2017-01-01",
          "shippedDate":"2017-01-01",
          "shipAddress":{
