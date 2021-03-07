@@ -41,26 +41,6 @@
       },
       {
          "membership":true,
-         "mobile":"555-555-555",
-         "rewards":26,
-         "id":9,
-         "firstname":"Jubino",
-         "lastname":"Gerret",
-         "email":"test@test.com",
-         "avatar":"/assets/img/avatar1.png"
-      },
-      {
-         "membership":false,
-         "mobile":"555-555-555",
-         "rewards":22,
-         "id":10,
-         "firstname":"Geneva",
-         "lastname":"Wilson",
-         "email":"test@test.com",
-         "avatar":"/assets/img/avatar2.png"
-      },
-      {
-         "membership":true,
          "firstname":"John",
          "lastname":"Doe",
          "mobile":"555-555-555",
@@ -80,36 +60,6 @@
       }
    ],
    "orders":[
-      {
-         "id":2,
-         "reference":"order-2-2-1-2",
-         "customerId":2,
-         "products":[
-            {
-               "id":1,
-               "name":"Product HHYDP",
-               "categoryId":1,
-               "numInStock":null,
-               "unitPrice":18
-            },
-            {
-               "id":2,
-               "name":"Product RECZE",
-               "categoryId":1,
-               "numInStock":null,
-               "unitPrice":19
-            }
-         ],
-         "amount":9.99,
-         "orderDate":"2017-01-01",
-         "shippedDate":"2017-01-01",
-         "shipAddress":{
-            "address":"Gran Vía, 0123",
-            "city":"Madrid",
-            "zipcode":"10298",
-            "country":"Spain"
-         }
-      },
       {
          "id":3,
          "reference":"order-4-3-1-2",
@@ -233,29 +183,6 @@
          }
       },
       {
-         "id":9,
-         "reference":"order-9-9-1-2",
-         "customerId":9,
-         "products":[
-            {
-               "id":5,
-               "name":"Product EPEIM",
-               "categoryId":2,
-               "numInStock":null,
-               "unitPrice":21.5
-            }
-         ],
-         "amount":59.99,
-         "orderDate":"2017-01-01",
-         "shippedDate":"2017-01-01",
-         "shipAddress":{
-            "address":"Gran Vía, 0123",
-            "city":"Madrid",
-            "zipcode":"10298",
-            "country":"Spain"
-         }
-      },
-      {
          "id":10,
          "reference":"order-10-10-1-2",
          "customerId":10,
@@ -293,29 +220,6 @@
          ],
          "amount":49.99,
          "orderDate":"2017-01-01",
-         "shippedDate":"2017-01-01",
-         "shipAddress":{
-            "address":"Gran Vía, 0123",
-            "city":"Madrid",
-            "zipcode":"10298",
-            "country":"Spain"
-         }
-      },
-      {
-         "id":14,
-         "reference":"order-2-14-1-2",
-         "customerId":4,
-         "products":[
-            {
-               "id":5,
-               "name":"Product EPEIM",
-               "categoryId":2,
-               "numInStock":null,
-               "unitPrice":21.5
-            }
-         ],
-         "amount":19.99,
-         "orderDate":"2017-01-09",
          "shippedDate":"2017-01-01",
          "shipAddress":{
             "address":"Gran Vía, 0123",
