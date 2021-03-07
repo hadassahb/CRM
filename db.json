@@ -81,26 +81,6 @@
       },
       {
          "membership":true,
-         "mobile":"555-555-555",
-         "rewards":38,
-         "id":11,
-         "firstname":"Mark",
-         "lastname":"Carney",
-         "email":"test@test.com",
-         "avatar":"/assets/img/avatar5.png"
-      },
-      {
-         "membership":false,
-         "mobile":"555-555-555",
-         "rewards":27,
-         "id":12,
-         "firstname":"Yann",
-         "lastname":"Larrel",
-         "email":"test@test.com",
-         "avatar":"/assets/img/avatar1.png"
-      },
-      {
-         "membership":true,
          "firstname":"John",
          "lastname":"Doe",
          "mobile":"555-555-555",
