@@ -214,7 +214,7 @@
             {
                "id":4,
                "name":"Product KSBRM",
-               "categoryId":2,
+               "categoryId":1,
                "numInStock":2,
                "unitPrice":22,
                "category":{
@@ -281,21 +281,21 @@
       {
          "id":13,
          "name":"Product POXFU",
-         "categoryId":8,
+         "categoryId":6,
          "numInStock":null,
          "unitPrice":6
       },
       {
          "id":14,
          "name":"Product PWCJB",
-         "categoryId":7,
+         "categoryId":5,
          "numInStock":null,
          "unitPrice":23.5
       },
       {
          "id":15,
          "name":"Product KSZOI",
-         "categoryId":2,
+         "categoryId":1,
          "numInStock":33,
          "unitPrice":15.5
       },
@@ -316,33 +316,33 @@
       {
          "id":18,
          "name":"Product CKEDC",
-         "categoryId":8,
+         "categoryId":5,
          "numInStock":null,
          "unitPrice":62.5
       },
       {
          "id":19,
          "name":"Product XKXDO",
-         "categoryId":3,
+         "categoryId": 1,
          "numInStock":null,
          "unitPrice":9.2
       },
       {
          "id":20,
          "name":"Product QHFFP",
-         "categoryId":3,
+         "categoryId":6,
          "numInStock":23,
          "unitPrice":81
       },
       {
          "id":21,
          "name":"Product VJZZH",
-         "categoryId":3,
+         "categoryId":5,
          "numInStock":null,
          "unitPrice":18
       },
       {
-         "categoryId":3,
+         "categoryId":1,
          "name":"Product ABCD",
          "unitPrice":222,
          "numInStock":23,
