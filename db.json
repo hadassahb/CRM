@@ -20,7 +20,7 @@
          "avatar":"/assets/img/avatar4.png"
       },
       {
-         "avatar":null,
+         "avatar":"/assets/img/avatar4.png",
          "firstname":"sdfsdf",
          "lastname":"sdfsdf",
          "mobile":"555-555-555",
