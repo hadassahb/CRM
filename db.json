@@ -260,21 +260,21 @@
       {
          "id":10,
          "name":"Product YHXGE",
-         "categoryId":8,
+         "categoryId":6,
          "numInStock":null,
          "unitPrice":31
       },
       {
          "id":11,
          "name":"Product QMVUN",
-         "categoryId":4,
+         "categoryId":5,
          "numInStock":null,
          "unitPrice":21
       },
       {
          "id":12,
          "name":"Product OSFNS",
-         "categoryId":4,
+         "categoryId":1,
          "numInStock":null,
          "unitPrice":38
       },
@@ -302,7 +302,7 @@
       {
          "id":16,
          "name":"Product PAFRH",
-         "categoryId":3,
+         "categoryId":5,
          "numInStock":null,
          "unitPrice":17.5
       },
@@ -351,7 +351,7 @@
       {
          "id":27,
          "name":"asdasd",
-         "categoryId":3,
+         "categoryId":1,
          "numInStock":"22",
          "unitPrice":"234"
       }
