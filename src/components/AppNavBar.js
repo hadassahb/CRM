@@ -20,7 +20,7 @@ const useStyles = makeStyles((theme) => ({
 
 const AppNavBar = ({styles, handleDrawerToggle}) => {
     const handleClick = () => {
-        window.open("https://google", undefined, undefined, false);
+        window.open("https://github.com/hadassahb/CRM", undefined, undefined, false);
     };
     const style = useStyles(styles);
 
